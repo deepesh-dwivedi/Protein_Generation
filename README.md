@@ -1,4 +1,4 @@
-# MLNS_Final
+# Machine Learning & Network Science Project
 
 This project draws its interest in bioinformatics and the innovations brought by the AI revolution in what concerns the study of the primary sources of Life. In particular, our objective has been to predict protein structures’ enzymatic functions starting from their graph representation, before trying to design graph structural approximations of enzymes through the use of generative models.
 
